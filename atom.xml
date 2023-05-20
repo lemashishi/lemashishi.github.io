@@ -3,11 +3,11 @@
   <title>乐码时诗</title>
   
   <subtitle>时诗乐于其中</subtitle>
-  <link href="http://lemashishi2.github.io/atom.xml" rel="self"/>
+  <link href="https://lemashishi-a.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://lemashishi2.github.io/"/>
+  <link href="https://lemashishi-a.github.io/project/"/>
   <updated>2023-05-19T15:29:37.946Z</updated>
-  <id>http://lemashishi2.github.io/</id>
+  <id>https://lemashishi-a.github.io/project/</id>
   
   <author>
     <name>时诗</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://lemashishi2.github.io/post/undefined.html"/>
-    <id>http://lemashishi2.github.io/post/undefined.html</id>
+    <link href="https://lemashishi-a.github.io/project/post/undefined.html"/>
+    <id>https://lemashishi-a.github.io/project/post/undefined.html</id>
     <published>2023-05-19T15:46:00.723Z</published>
     <updated>2023-05-19T15:29:37.946Z</updated>
     
